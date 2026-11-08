@@ -1,0 +1,6 @@
+{
+  "name": "Smart x - Math Solver, Movie Studio & Q&A Assistant",
+  "description": "Smart x: ChatGPT-style AI with a blue and white screen interface for solving complex equations, building animated movies, and answering every question.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

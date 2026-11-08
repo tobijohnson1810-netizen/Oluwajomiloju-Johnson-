@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smartx.ai",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:6A:B9:4E:9F:87:6F:E1:9F:42:3B:4E:97:7A:B4:9C:2A:5D:89:E3:64:91:2E:78:E1:3A:9F:4D:2E"
+      ]
+    }
+  }
+]
